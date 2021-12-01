@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WrapperClass
+comment0.text=\r\n\ Class\ WrapperClass\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=WrapperClass()
+comment2.params=
+comment2.target=int\ scan()
+comment3.params=
+comment3.target=void\ store()
+comment4.params=
+comment4.target=void\ print()
+numComments=5

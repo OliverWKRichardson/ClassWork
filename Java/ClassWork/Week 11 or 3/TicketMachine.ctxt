@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment0.text=\r\n\ TicketMachine\ models\ a\ naive\ ticket\ machine\ that\ issues\r\n\ flat-fare\ tickets.\r\n\ The\ price\ of\ a\ ticket\ is\ specified\ via\ the\ constructor.\r\n\ It\ is\ a\ naive\ machine\ in\ the\ sense\ that\ it\ trusts\ its\ users\r\n\ to\ insert\ enough\ money\ before\ trying\ to\ print\ a\ ticket.\r\n\ It\ also\ assumes\ that\ users\ enter\ sensible\ amounts.\r\n\r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\ (Edited\ By\ Oliver\ Richardson)\r\n\ @version\ 2016.02.29\ (Edited\ 13/10/21)\r\n
+comment1.params=cost
+comment1.target=TicketMachine(int)
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=
+comment4.target=int\ getBalance()
+comment5.params=newPrice
+comment5.target=void\ setPrice(int)
+comment6.params=amount
+comment6.target=void\ insertMoney(int)
+comment7.params=
+comment7.target=void\ prompt()
+comment8.params=
+comment8.target=void\ showPrice()
+comment9.params=
+comment9.target=void\ printTicket()
+numComments=10

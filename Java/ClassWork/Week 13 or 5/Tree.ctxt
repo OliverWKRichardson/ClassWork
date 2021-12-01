@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=Tree()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Picture\r\n
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ drawTrunk()
+comment4.params=
+comment4.target=void\ drawLeaves()
+numComments=5

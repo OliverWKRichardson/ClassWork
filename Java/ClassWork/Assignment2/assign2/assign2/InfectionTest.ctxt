@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=InfectionTest
+comment0.text=\r\n\ \r\n\ NB\:\ DO\ NOT\ MODIFY\ THIS\ CLASS\ IN\ ANY\ WAY\r\n\ \r\n\ A\ record\ of\ a\ test\ of\ infection.\r\n\ The\ status\ of\ the\ test\ is\ unknown\ initially.\r\n\ Whether\ the\ test\ is\ positive\ or\ negative\ is\r\n\ only\ meaningful\ if\ its\ status\ is\ known.\r\n\r\n\ @author\ David\ J.\ Barnes\r\n\ @version\ 2021.11.01\r\n
+comment1.params=id
+comment1.target=InfectionTest(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InfectionReport\r\n
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment2.text=\r\n\ Get\ the\ ID\ of\ the\ test.\r\n\ @return\ the\ ID.\r\n
+comment3.params=
+comment3.target=boolean\ isKnown()
+comment3.text=\r\n\ Get\ whether\ the\ test\ status\ is\ known\ or\ not.\r\n\ @return\ true\ if\ the\ status\ is\ known,\r\n\ \ \ \ \ \ \ \ \ false\ otherwise.\r\n
+comment4.params=
+comment4.target=boolean\ isPositive()
+comment4.text=\r\n\ Get\ whether\ the\ test\ is\ positive\ or\ not.\r\n\ NB\:\ This\ method\ must\ only\ be\ called\ if\ the\ status\r\n\ is\ known,\ otherwise\ the\ result\ would\ be\ undefined.\r\n\ @return\ true\ if\ the\ result\ is\ positive,\ false\ otherwise.\r\n
+comment5.params=positive
+comment5.target=void\ setStatus(boolean)
+comment5.text=\r\n\ Set\ the\ status\ to\ be\ known\ and\ the\ positive/negative\r\n\ status\ to\ the\ given\ value.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDetails()
+comment6.text=\r\n\ Return\ whether\ the\ test\ is\ positive\ or\ negative\r\n\ if\ the\ result\ is\ known.\r\n\ @return\ details\ of\ the\ test.\r\n
+numComments=7

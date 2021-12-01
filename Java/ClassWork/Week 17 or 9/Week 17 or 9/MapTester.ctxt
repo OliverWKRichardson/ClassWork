@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MapTester
+comment0.text=\r\n\ Class\ MapTester\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=MapTester()
+comment2.params=name\ number
+comment2.target=void\ enterNumber(java.lang.String,\ java.lang.String)
+comment3.params=name
+comment3.target=java.lang.String\ lookupNumber(java.lang.String)
+comment4.params=
+comment4.target=void\ allKeys()
+comment5.params=number
+comment5.target=java.lang.String\ allNames(java.lang.String)
+numComments=6

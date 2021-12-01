@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PrimordialElemental
+comment0.text=\r\n\ Class\ Primordial\ Elemental\ \r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=setName\ setLevel\ setElement
+comment1.target=PrimordialElemental(java.lang.String,\ int,\ java.lang.String)
+comment2.params=initialHealth\ initialMana\ initialStrength\ initialDexterity\ initialIntelligence\ initialFaith\ Level
+comment2.target=void\ setStats(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ elementalDomain()
+comment4.params=
+comment4.target=void\ gargantuan()
+numComments=5

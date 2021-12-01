@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WeekEight
+comment0.text=\r\n\ Class\ WeekEight\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=WeekEight()
+comment2.params=a\ b
+comment2.target=int\ sum(int,\ int)
+numComments=3

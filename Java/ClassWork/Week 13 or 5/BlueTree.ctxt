@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BlueTree
+comment0.text=\r\n\ Class\ BlueTree\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=BlueTree()
+comment2.params=
+comment2.target=void\ drawLeaves()
+numComments=3

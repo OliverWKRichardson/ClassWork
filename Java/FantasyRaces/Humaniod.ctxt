@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Humaniod
+comment0.text=\r\n\ Abstract\ class\ Humaniod\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=void\ setResistances()
+comment2.params=initialHealth\ initialMana\ initialStrength\ initialDexterity\ initialIntelligence\ initialFaith
+comment2.target=void\ setStats(int,\ int,\ int,\ int,\ int,\ int)
+numComments=3

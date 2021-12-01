@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Judging
+comment0.text=\r\n\ Assignment\ 1\ main\ class\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 12/10/21\r\n
+comment1.params=setName
+comment1.target=Judging(java.lang.String)
+comment2.params=
+comment2.target=int\ getVotes()
+comment3.params=
+comment3.target=int\ getJudges()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=numOfNewVotes
+comment5.target=void\ vote(int)
+comment6.params=
+comment6.target=java.lang.String\ getDetails()
+comment7.params=
+comment7.target=boolean\ positive()
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Treant
+comment0.text=\r\n\ Class\ Treant\ \r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=setName\ setLevel
+comment1.target=Treant(java.lang.String,\ int)
+comment2.params=initialHealth\ initialMana\ initialStrength\ initialDexterity\ initialIntelligence\ initialFaith\ Level
+comment2.target=void\ setStats(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ irregularProfile()
+comment4.params=
+comment4.target=void\ takeRoot()
+comment5.params=
+comment5.target=void\ acornAssult()
+numComments=6

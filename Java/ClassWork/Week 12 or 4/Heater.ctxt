@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ Class\ Heater\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=setTemp\ setMin\ setMax
+comment1.target=Heater(double,\ double,\ double)
+comment2.params=newIncrement
+comment2.target=void\ setIncrement(double)
+comment3.params=
+comment3.target=void\ warmer()
+comment4.params=
+comment4.target=void\ cooler()
+numComments=5

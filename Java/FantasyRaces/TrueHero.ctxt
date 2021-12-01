@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TrueHero
+comment0.text=\r\n\ Class\ True\ Hero\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 0.0\r\n
+comment1.params=setName\ setLevel
+comment1.target=TrueHero(java.lang.String,\ int)
+comment2.params=initialHealth\ initialMana\ initialStrength\ initialDexterity\ initialIntelligence\ initialFaith\ Level
+comment2.target=void\ setStats(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ trueHolySmite()
+numComments=4

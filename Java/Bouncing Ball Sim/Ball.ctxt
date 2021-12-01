@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Bouncy\ Ball\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 29/9/2021\r\n
+comment1.params=
+comment1.target=Ball()
+comment2.params=
+comment2.target=void\ simulate()
+comment3.params=
+comment3.target=void\ bounce()
+comment4.params=
+comment4.target=void\ updatePosition()
+comment5.params=
+comment5.target=void\ dropBall()
+comment6.params=
+comment6.target=double\ getHeight()
+comment7.params=NewHeight
+comment7.target=void\ setHeight(double)
+comment8.params=NewElasticityPercent
+comment8.target=void\ setElasticityPercent(double)
+comment9.params=NewTimeToSimulate
+comment9.target=void\ setTimeToSimulate(int)
+numComments=10
