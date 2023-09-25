@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Maths
-comment0.text=\r\n\ Mathematical\ Functions\r\n\r\n\ @author\ Oliver\ Richardson\r\n\ @version\ 5/10/21\r\n
-comment1.params=
-comment1.target=Maths()
-comment2.params=n\ decimalplace
-comment2.target=double\ truncateNumber(double,\ int)
-numComments=3
